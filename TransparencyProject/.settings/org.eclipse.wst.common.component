@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    	
+    <wb-module deploy-name="TransparencyProject">
+        		
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        		
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        		
+        <property name="java-output-path" value="/TransparencyProject/build/classes"/>
+        <property name="context-root" value="TransparencyProject"/>
+        	
+    </wb-module>
+    
+</project-modules>
